@@ -76,8 +76,8 @@ Um banco de dados (SQLite, PostgreSQL ou outro relacional) com duas tabelas prin
 
 Seu backend deve expor **endpoints REST** que permitam:
 
-| Método | Rota | Descrição |
-|--------|------|------------|
+| Rota | Descrição |
+|------|------------|
 | `POST /operations` | Cria uma nova operação de antecipação. Calcula `fee` e `net_value` automaticamente. |
 | `GET /operations/:id` | Retorna os dados completos de uma operação. |
 | `POST /operations/:id/confirm` | Confirma uma operação e soma o valor líquido ao saldo do recebedor. |
