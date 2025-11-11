@@ -1,7 +1,4 @@
 # 💙 LocPay Tech Challenge - Summer Job 2025
-
-# 💸 LocPay Summer Tech Challenge 2025
-
 ## 🧩 Descrição
 
 Este projeto implementa uma **API RESTful** para gerenciamento de **operações financeiras** entre recebedores, utilizando **Express.js**, **SQLite** e arquitetura **MVC**.
