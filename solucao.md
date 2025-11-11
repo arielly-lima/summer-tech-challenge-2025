@@ -15,12 +15,12 @@ A aplicação permite:
 
 O projeto segue o padrão **Model-View-Controller (MVC)**:
 **summer-tech-challenge-2025**
-┣ 📂 config/ # Configuração do banco SQLite
-┣ 📂 controllers/ # Lógica de negócio
-┣ 📂 models/ # Manipulação direta do banco de dados
-┣ 📂 routes/ # Definição das rotas Express
-┣ 📜 app.js # Ponto de entrada principal
-┗ 📜 db.sqlite # Banco de dados local
+┣ 📂 config/ # Configuração do banco SQLite<br>
+┣ 📂 controllers/ # Lógica de negócio<br>
+┣ 📂 models/ # Manipulação direta do banco de dados<br>
+┣ 📂 routes/ # Definição das rotas Express<br>
+┣ 📜 app.js # Ponto de entrada principal<br>
+┗ 📜 db.sqlite # Banco de dados local<br>
 
 
 ---
